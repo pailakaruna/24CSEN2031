@@ -21,3 +21,11 @@ printf("%d\n", r);
  
    return 0;
 }
+
+Output
+enter the integer value:234
+4
+3
+2
+
+
