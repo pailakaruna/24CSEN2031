@@ -13,3 +13,8 @@
        }
        printf("Reverse of number is %d", rev);
    }
+
+Output
+Enter integer number198
+Reverse of number is 891
+
